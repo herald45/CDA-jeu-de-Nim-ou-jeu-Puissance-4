@@ -1,4 +1,4 @@
-# ** Application de Jeux en Java - Nim & Puissance 4**
+# **Application de Jeux en Java - Nim & Puissance 4**
 
 ## **Description du Projet**
 
